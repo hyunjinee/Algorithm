@@ -4,7 +4,7 @@
 
 | 번호 | 문제                                                           | 코드                      | 번호 | 문제                                                  | 코드                    |
 |:----:|:--------------------------------------------------------------:|:-------------------------:|:----:|:-----------------------------------------------------:|:-----------------------:|
-|  1   |      [Hello World](https://www.acmicpc.net/problem/2557)       |  [python](source/2557.cpp)   |  2   |     [N찍기](https://www.acmicpc.net/problem/2741)     | [cpp](source/2741.cpp)  |
+|  1   |      [Hello World](https://www.acmicpc.net/problem/2557)       |  [python](source/2557.py)   |  2   |     [N찍기](https://www.acmicpc.net/problem/2741)     | [cpp](source/2741.cpp)  |
 |  3   |         [기찍 N](https://www.acmicpc.net/problem/2742)         |  [cpp](source/2742.cpp)   |  4   |      [개](https://www.acmicpc.net/problem/10172)      | [cpp](source/10172.cpp) |
 |  5   |    [그대로 출력하기](https://www.acmicpc.net/problem/11718)    |  [cpp](source/11718.cpp)  |  6   |  [숫자의 합](https://www.acmicpc.net/problem/11720)   | [cpp](source/11720.cpp) |
 |  7   | [열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721) |  [cpp](source/11721.cpp)  |  8   |     [??!](https://www.acmicpc.net/problem/10926)      | [cpp](source/10926.cpp) |
