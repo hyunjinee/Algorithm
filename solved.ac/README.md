@@ -16,3 +16,24 @@
 |  19  |       [오늘 날짜](https://www.acmicpc.net/problem/10699)       | [java](source/10699.java) |  20  | [고려대는 사랑입니다](https://www.acmicpc.net/problem/11942) | [python](source/11942.py)  |                                                |                         |
 
 </details>
+
+### 별 찍기
+
+<details open> <summary> 접기 / 펼치기 </summary>
+
+| 번호 | 문제                                                  | 코드                    | 번호 | 문제                                                  | 코드                    |
+|:----:|:-----------------------------------------------------:|:-----------------------:|:----:|:-----------------------------------------------------:|:-----------------------:|
+|  1   |  [별 찍기 - 1](https://www.acmicpc.net/problem/2438)  | [cpp](source/2438.cpp)  |  2   |  [별 찍기 - 2](https://www.acmicpc.net/problem/2439)  | [cpp](source/2439.cpp)  |
+|  3   |  [별 찍기 - 3](https://www.acmicpc.net/problem/2440)  | [cpp](source/2440.cpp)  |  4   |  [별 찍기 - 4](https://www.acmicpc.net/problem/2441)  | [cpp](source/2441.cpp)  |
+|  5   |  [별 찍기 - 5](https://www.acmicpc.net/problem/2442)  | [cpp](source/2445.cpp)  |  6   |  [별 찍기 - 6](https://www.acmicpc.net/problem/2443)  | [cpp](source/2443.cpp)  |
+|  7   |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  | [cpp](source/2444.cpp)  |  8   |  [별 찍기 - 8](https://www.acmicpc.net/problem/2445)  | [cpp](source/2445.cpp)  |
+|  9   |  [별 찍기 - 9](https://www.acmicpc.net/problem/2446)  | [cpp](source/2446.cpp)  |  10  | [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  | [cpp](source/2447.cpp)  |
+|  11  | [별 찍기 - 11](https://www.acmicpc.net/problem/2448)  | [cpp](source/2448.cpp)  |  12  | [별 찍기 - 12](https://www.acmicpc.net/problem/2522)  | [cpp](source/2522.cpp)  |
+|  13  | [별 찍기 - 13](https://www.acmicpc.net/problem/2523)  | [cpp](source/2523.cpp)  |  14  | [별 찍기 - 14](https://www.acmicpc.net/problem/2556)  | [cpp](source/2556.cpp)  |
+|  15  | [별 찍기 - 15](https://www.acmicpc.net/problem/10990) | [cpp](source/10990.cpp) |  16  | [별 찍기 - 16](https://www.acmicpc.net/problem/10991) | [cpp](source/10991.cpp) |
+|  17  | [별 찍기 - 17](https://www.acmicpc.net/problem/10992) | [cpp](source/10992.cpp) |  18  | [별 찍기 - 18](https://www.acmicpc.net/problem/10993) |                         |
+|  19  | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) |                         |  20  | [별 찍기 - 20](https://www.acmicpc.net/problem/10995) | [cpp](source/10995.cpp) |
+|  21  | [별 찍기 - 21](https://www.acmicpc.net/problem/10996) | [cpp](source/10996.cpp) |  22  | [별 찍기 - 22](https://www.acmicpc.net/problem/10997) |                         |
+|  23  | [별 찍기 - 23](https://www.acmicpc.net/problem/13015) |                         |      |                                                       |                         |
+
+</details>
