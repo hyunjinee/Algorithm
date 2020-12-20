@@ -23,10 +23,10 @@
 
 | 번호 | 문제                                                  | 코드                    | 번호 | 문제                                                  | 코드                    |
 |:----:|:-----------------------------------------------------:|:-----------------------:|:----:|:-----------------------------------------------------:|:-----------------------:|
-|  1   |  [별 찍기 - 1](https://www.acmicpc.net/problem/2438)  | [cpp](source/2438.py)  |  2   |  [별 찍기 - 2](https://www.acmicpc.net/problem/2439)  | [cpp](source/2439.py)  |
-|  3   |  [별 찍기 - 3](https://www.acmicpc.net/problem/2440)  | [cpp](source/2440.py)  |  4   |  [별 찍기 - 4](https://www.acmicpc.net/problem/2441)  | [cpp](source/2441.py)  |
-|  5   |  [별 찍기 - 5](https://www.acmicpc.net/problem/2442)  | [cpp](source/2445.py)  |  6   |  [별 찍기 - 6](https://www.acmicpc.net/problem/2443)  | [cpp](source/2443.py)  |
-|  7   |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  | [cpp](source/2444.py)  |  8   |  [별 찍기 - 8](https://www.acmicpc.net/problem/2445)  | [cpp](source/2445.py)  |
+|  1   |  [별 찍기 - 1](https://www.acmicpc.net/problem/2438)  | [python](source/2438.py)  |  2   |  [별 찍기 - 2](https://www.acmicpc.net/problem/2439)  | [python](source/2439.py)  |
+|  3   |  [별 찍기 - 3](https://www.acmicpc.net/problem/2440)  | [python](source/2440.py)  |  4   |  [별 찍기 - 4](https://www.acmicpc.net/problem/2441)  | [python](source/2441.py)  |
+|  5   |  [별 찍기 - 5](https://www.acmicpc.net/problem/2442)  | [python](source/2445.py)  |  6   |  [별 찍기 - 6](https://www.acmicpc.net/problem/2443)  | [python](source/2443.py)  |
+|  7   |  [별 찍기 - 7](https://www.acmicpc.net/problem/2444)  | [python](source/2444.py)  |  8   |  [별 찍기 - 8](https://www.acmicpc.net/problem/2445)  | [python](source/2445.py)  |
 |  9   |  [별 찍기 - 9](https://www.acmicpc.net/problem/2446)  | [cpp](source/2446.py)  |  10  | [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  | [cpp](source/2447.py)  |
 |  11  | [별 찍기 - 11](https://www.acmicpc.net/problem/2448)  | [cpp](source/2448.cpp)  |  12  | [별 찍기 - 12](https://www.acmicpc.net/problem/2522)  | [cpp](source/2522.py)  |
 |  13  | [별 찍기 - 13](https://www.acmicpc.net/problem/2523)  | [cpp](source/2523.cpp)  |  14  | [별 찍기 - 14](https://www.acmicpc.net/problem/2556)  | [cpp](source/2556.py)  |
