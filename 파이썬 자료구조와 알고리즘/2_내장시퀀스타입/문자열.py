@@ -47,3 +47,15 @@ print(slayers.strip("999"))
 
 slayers = "Buffy and Faith"
 print(slayers.swapcase())
+
+print(slayers.find("y"))
+print(slayers.find("k"))
+#print(slayers.index("k"))
+print(slayers.index("y"))
+
+slayer = "Buffy is Buffy is Buffy"
+print(slayer.count("Buffy", 0, -1))
+print(slayer.count("Buffy"))
+print(slayer.replace("Buffy", "who", 2))
+
+
