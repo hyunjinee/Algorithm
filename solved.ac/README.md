@@ -1,5 +1,7 @@
 ### 출력
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hjl9345})](https://solved.ac/{hjl9345})
 <details open> <summary> 접기 / 펼치기 </summary>
 
 | 번호 | 문제                                                           | 코드                      | 번호 | 문제                                                  | 코드                    |
