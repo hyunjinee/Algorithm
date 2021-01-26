@@ -1,4 +1,6 @@
 # 205. Isomorphic_Strings
+![is](https://user-images.githubusercontent.com/63354527/105789785-6655e280-5fc6-11eb-8e41-08906dc6a68c.PNG)
+
 
 해석: s랑t를 줄께, 이소모르픽 문자열인지 판단해봐
 문자가 대체될수 있을 때 이소모르픽이다.
