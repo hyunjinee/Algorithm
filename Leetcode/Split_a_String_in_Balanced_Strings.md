@@ -1,4 +1,7 @@
 # 1221. Split a String in Balanced Strings
+![1221](https://user-images.githubusercontent.com/63354527/106258410-1fcfe480-6261-11eb-8451-0f3e500cc7dd.PNG)
+
+
 
 해석: 균형잡힌 문자열이란L과 R의 문자의 개수가 같은 것을 말한다.
 균형잡힌 문자열 s 가 주어진다. 이것을 쪼개서 가장많은 균형잡힌 문자열을 만들어라.
