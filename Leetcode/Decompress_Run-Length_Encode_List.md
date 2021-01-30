@@ -1,4 +1,7 @@
 # 1313. Decompress Run-Length Encoded List
+![1313](https://user-images.githubusercontent.com/63354527/106348071-b0143500-6306-11eb-869c-158c8d3c3e9a.PNG)
+
+
 
 문제 해석: 실행 길이 인코딩으로 압축 된 목록을 나타내는 정수 목록 번호가 제공됩니다.
 인접한 각각의 원소들을 고려해라. 각각의 쌍은 freq원소 value val이 합쳐져있다.(sublist에) 모든 서브리스트를 합쳐라. 왼쪽에서 오른쪽으로 압축된것을 푼 리스트를 만들기위해서. 그리고, 리턴해라 푼 리스트를
