@@ -1,5 +1,8 @@
 # 1370. Increasing Decreasing String
 
+![1370](https://user-images.githubusercontent.com/63354527/106405795-b2979b80-647a-11eb-8afa-13e8aeb49a28.PNG)
+
+
 문제 해석: 문자열 s가 주어진다. 너는, 이 문자열을 아래의 알고리즘을 이용하여서 재정렬하여야 한다.
 
 1. s에서 가장 작은 문자를 선택하여 결과에 추가합니다.
