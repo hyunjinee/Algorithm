@@ -31,6 +31,8 @@ var diagonalSum = function (mat) {
 
 ## 풀이 2
 
+인덱스가 같을 경우 한번만 더한다.
+
 ```javascript
 var diagonalSum = function (mat) {
   let matLength = mat.length;
@@ -48,6 +50,8 @@ var diagonalSum = function (mat) {
 ```
 
 ## 풀이 3
+
+코드 길이 단축
 
 ```javascript
 let diagonalSum = function (mat) {
