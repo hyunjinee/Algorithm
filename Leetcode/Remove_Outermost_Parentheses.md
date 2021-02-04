@@ -1,5 +1,8 @@
 # 1021. Remove Outermost Parentheses
 
+![1021](https://user-images.githubusercontent.com/63354527/106438871-65d3b500-64ba-11eb-8784-af864371349a.PNG)
+
+
 문제 해석: 타당한 괄호 문자열은 (""), "(" + A + ")", or A + B이다
 For example, "", "()", "(())()", and "(()(()))" are all valid parentheses strings.
 위에 애들은 타당한 애들이다.
