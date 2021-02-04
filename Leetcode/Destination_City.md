@@ -1,5 +1,7 @@
 # 1436. Destination City
 
+![1436](https://user-images.githubusercontent.com/63354527/106848925-378de980-66f5-11eb-8578-5c4cc126d25c.PNG)
+
 문제 해석: 너는 배열 paths가 주어질 것이다. paths[i] = [cityA, cityB]는 A에서B가는 직접적인 경로가 있다는 것을 의미한다. 다른 도시로 나가는 경로가 없는 목적지 city를 반환해라
 그니까 연쇄적 배열을 주면 마지막 경로가 어딘지 찾으라는 문제이다.
 
