@@ -1,5 +1,7 @@
 # 500. Keyboard Row
 
+![500](https://user-images.githubusercontent.com/63354527/107139525-1f210780-695f-11eb-8815-649bcd117ea6.PNG)
+
 문제해석: 문자열로 이루어진 배열이 주어진다! 미국 키보드로, 한줄만 써서 칠수 있는 단어를 반환해라.
 
 ## 풀이 1
