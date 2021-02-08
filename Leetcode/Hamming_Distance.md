@@ -1,5 +1,7 @@
 # 461. Hamming Distance
 
+![461](https://user-images.githubusercontent.com/63354527/107167839-3d3d4500-69fd-11eb-8ccc-f600abd29335.PNG)
+
 문제해석: hamming distance는 두개의 정수의 이진비트가 다른 것의 수이다.
 hammingdistance를 리턴해라
 
