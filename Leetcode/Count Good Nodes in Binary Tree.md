@@ -71,6 +71,8 @@ class Solution:
 
 ```
 
+> java
+
 ```java
 class Solution {
     int good;
