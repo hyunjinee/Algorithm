@@ -4,6 +4,7 @@
 # 입력으로는 정점의 개수 n 과 간선의 개수 m 이 주어진다.
 
 import sys
+
 input = sys.stdin.readline
 
 n, m = map(int, input().split())
