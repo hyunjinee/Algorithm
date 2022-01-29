@@ -1,22 +1,44 @@
 import sys
+from collections import deque
+
 input = sys.stdin.readline
+N, K = map(int, input().strip().split())
+arr = [0 for _ in range(1000001)]
 
-N, K = map(int, input().split())
-arr = [0] * 1000001
+for i in range(N):
+    ice, x = map(int, input().strip().split())
+    arr[x] = ice
 
-for _ in range(N):
-    g, x = map(int, input().split())
-    arr[x] = g
+q = deque()
+maxIce = 0
+tempIce = 0
+for i in range(0, 1000001):
+    q.append(arr[i])
+    tempIce += arr[i]
+    if (2*K+1) < len(q):
+        tempIce -= q.popleft()
+    maxIce = max(maxIce, tempIce)
 
-step = K * 2 + 1
-temp = sum(arr[:step])
-ans = temp
+print(maxIce)
+# import sys
+# input = sys.stdin.readline
 
-for i in range(step, 1000001) :
-    temp += arr[i] - arr[i - step]
-    ans = max(ans, temp)
+# N, K = map(int, input().split())
+# arr = [0] * 1000001
 
-print(ans)
+# for _ in range(N):
+#     g, x = map(int, input().split())
+#     arr[x] = g
+
+# step = K * 2 + 1
+# temp = sum(arr[:step])
+# ans = temp
+
+# for i in range(step, 1000001) :
+#     temp += arr[i] - arr[i - step]
+#     ans = max(ans, temp)
+
+# print(ans)
 
 # import sys
 # from collections import deque
