@@ -1,0 +1,5 @@
+a,b,c,d = input().split()
+aa = str(a) + str(b)
+bb = str(c) + str(d)
+aabb = int(aa) + int(bb)
+print(aabb)
