@@ -12,4 +12,4 @@ for _ in range(int(input())):
     for j in range(coins[i], m + 1 ):
       dp[j] += dp[j-coins[i]]
   print(dp[m])
-  
+
