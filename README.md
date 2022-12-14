@@ -5,7 +5,7 @@
 
 <!-- >
 > 🏅&nbsp; **500 Commits** 2021-03-31
-> 🏃‍♀️&nbsp; _Running for 400 commits..._ -->
+> 🏃‍♀️&nbsp; _Running for 400 commits_ -->
 
 # ⭐️ 0000번 문제 제목
 
