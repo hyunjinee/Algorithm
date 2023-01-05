@@ -16,4 +16,3 @@ class Solution:
             
             print(a)
             return nums3[a]
-        
