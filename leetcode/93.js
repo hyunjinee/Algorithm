@@ -1,12 +1,13 @@
 const restoreIpAddresses = (s) => {
   if (s.length < 4 || s.length > 12) {
-    return [] // 4 보다 길이가 작으면 빈 배열 반환
+    return []
   }
 
-  const ans = [] // 정답 배열 선언
+  const ans = []
+
   const backtracking = (curr = [], index = 0) => {
     if (curr.length === 4) {
-      ans.push(curr.join(".")) // 베이스 케이스 4개 다차면 ans에 추가
+      ans.push(curr.join("."))
       return
     }
 
@@ -15,7 +16,6 @@ const restoreIpAddresses = (s) => {
     }
 
     for (let i = 1; i <= 3; i++) {
-      // 0으로 시작하는 숫자는 제외
       if (s[index] === "0") {
         backtracking([...curr, "0"], index + 1)
         break
@@ -34,6 +34,7 @@ const restoreIpAddresses = (s) => {
   }
 
   backtracking()
+
   return [...new Set(ans.filter((e) => e.length === s.length + 3))]
 }
 
