@@ -24,7 +24,6 @@ for i in range(2, b+ 1):
       break
     if d[j]:
       dd[i * j] = dd[i] + 1
-
 answer = 0
 for i in range(a, b + 1):
   if d[dd[i]]:

@@ -17,5 +17,5 @@ for s, e in arr:
         answer+=1
     heapq.heappush(rooms, e)
     
-    print(rooms)
+    print(rooms) 
 print(answer)
