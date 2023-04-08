@@ -1,8 +1,3 @@
-# JavaScript Patterns
-
-## N \* N 배열 회전
-
-```js
 const arr = [
   [1, 2, 3],
   [4, 5, 6],
@@ -14,6 +9,8 @@ function rotate(arr) {
 
   for (let i = 0; i < N; i++) {
     for (let j = 0; j < N; j++) {
+      console.log(i, j)
+      console.log(j, N - 1 - i)
       result[j][N - 1 - i] = arr[i][j]
     }
   }
@@ -22,6 +19,3 @@ function rotate(arr) {
 }
 
 console.log(rotate(arr))
-```
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjinee%2FAlgorithm&count_bg=%23262382&title_bg=%233E2ABA&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
