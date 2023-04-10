@@ -1,5 +1,12 @@
 # JavaScript Patterns
 
+## toString을 사용해 숫자를 이진수로 변환
+
+```js
+const count = 10
+console.log(count.toString(2)) // 1010
+```
+
 ## N \* N 배열 회전
 
 ```js
