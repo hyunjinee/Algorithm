@@ -1,12 +1,5 @@
 # JavaScript Patterns
 
-## toString을 사용해 숫자를 이진수로 변환
-
-```js
-const count = 10
-console.log(count.toString(2)) // 1010
-```
-
 ## N \* N 배열 회전
 
 ```js
@@ -29,6 +22,13 @@ function rotate(arr) {
 }
 
 console.log(rotate(arr))
+```
+
+## toString(2)을 사용해 숫자를 이진수로 변환
+
+```js
+const count = 10
+console.log(count.toString(2)) // 1010
 ```
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjinee%2FAlgorithm&count_bg=%23262382&title_bg=%233E2ABA&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
