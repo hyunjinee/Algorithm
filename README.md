@@ -47,9 +47,15 @@ Array(5)
 ## 문자열 길이 채우기
 
 ```js
-"f".padStart(3) // "  f"
-"f".padStart(3, "0") // "00f"
-"f".padEnd(3, "0") // "f00"
+"h".padStart(3) // "  h"
+"h".padStart(3, "0") // "00h"
+"h".padEnd(3, "0") // "h00"
+```
+
+## 깊은 복사
+
+```js
+const clone = JSON.parse(JSON.stringify(obj))
 ```
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjinee%2FAlgorithm&count_bg=%23262382&title_bg=%233E2ABA&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
