@@ -58,4 +58,27 @@ Array(5)
 const clone = JSON.parse(JSON.stringify(obj))
 ```
 
+## 이진 탐색
+
+```js
+function binarySearch(array, target) {
+  let [start, end] = [0, array.length - 1]
+
+  while (start <= end) {
+    let mid = Math.floor((start + end) / 2)
+
+    if (array[mid] === target) {
+      return mid
+    }
+
+    if (target < array[mid]) {
+      end = mid - 1
+    } else {
+      start = mid + 1
+    }
+  }
+  return -1
+}
+```
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjinee%2FAlgorithm&count_bg=%23262382&title_bg=%233E2ABA&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
