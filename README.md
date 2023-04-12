@@ -81,4 +81,26 @@ function binarySearch(array, target) {
 }
 ```
 
+## , 찍기
+
+- 내장 함수 `n.toLocaleString()
+
+```js
+console.log((123456789).toLocaleString())
+// 123,456,789
+```
+
+- 재귀 함수
+
+```js
+const putComma = (s) => {
+  if (s.length <= 3) return s
+  return putComma(s.slice(0, -3)) + "," + s.slice(-3)
+}
+```
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunjinee%2FAlgorithm&count_bg=%23262382&title_bg=%233E2ABA&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+```
+
+```
