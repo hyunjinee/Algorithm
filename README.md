@@ -44,6 +44,12 @@ Array(5)
 // [ 'a', 'b', 'c', 'd', 'e' ]
 ```
 
+## charCodeAt
+
+```js
+console.log("hyunjin".charCodeAt(0)) // 104
+```
+
 ## 문자열 길이 채우기
 
 ```js
