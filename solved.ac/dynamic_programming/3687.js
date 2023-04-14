@@ -28,6 +28,7 @@ minDP[2] = 1
 minDP[3] = 7
 minDP[4] = 4
 minDP[5] = 2
+
 minDP[6] = 6
 minDP[7] = 8
 
