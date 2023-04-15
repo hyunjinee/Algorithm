@@ -6,3 +6,5 @@ function solution(strings, n) {
     if (a < b) return -1
   })
 }
+
+console.log("a" - "b")

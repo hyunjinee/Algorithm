@@ -17,4 +17,8 @@ for (let [a, b] of map.entries()) {
   console.log(a, b)
 }
 
+for (let [a, b] of map) {
+  console.log(a, b)
+}
+
 console.log(NaN !== NaN)
