@@ -2,6 +2,8 @@ const stdin = require("fs").readFileSync("./dev/stdin").toString().trim()
 let [N, ops] = stdin.split("\n")
 N = Number(N)
 ops = Array.from(ops).map((v, i) => (i & 1 ? v : Number(v)))
+
+console.log(ops)
 const operate = ([amax, amin], op, [bmax, bmin]) => {
   switch (op) {
     case "+":
@@ -16,6 +18,8 @@ const operate = ([amax, amin], op, [bmax, bmin]) => {
 const nums = (N + 1) / 2
 let memo = []
 memo[0] = [...Array(nums)].map((v, i) => [...Array(2)].fill(ops[i * 2]))
+
+console.log(memo)
 const get = (s, f) => memo[f - s][s]
 for (let gap = 1; gap < nums; gap++) {
   memo[gap] = []
@@ -29,4 +33,5 @@ for (let gap = 1; gap < nums; gap++) {
     memo[gap].push([max, min])
   }
 }
+console.log(memo)
 console.log(memo[nums - 1][0][0])
